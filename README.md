@@ -6,8 +6,7 @@ This repository contains a portfolio of data science and data analyst projects c
 ### 🛠️ End-to-End Data Pipelines & Dashboards
 
 - [**London Bike Rides: ETL & Interactive Dashboard**](https://github.com/GawrGaUwU/data-analytics-portfolio/blob/main/London%20Bike/London%20Bike%20Rides%20EDA.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GawrGaUwU/data-analytics-portfolio/blob/main/London%20Bike/London%20Bike%20Rides%20EDA.ipynb) 
-  
-  **[🔗 View Tableau Dashboard](https://public.tableau.com/shared/XWQGWS5X9)**
+**[🔗 View Tableau Dashboard](https://public.tableau.com/shared/XWQGWS5X9)**
   
   A comprehensive project transforming 17,000+ rows of raw mobility data into actionable urban insights.
   * **Tech Stack:** Python (Pandas), Tableau.
@@ -18,3 +17,6 @@ This repository contains a portfolio of data science and data analyst projects c
 
 - [**Pokémon Stats EDA**](https://github.com/GawrGaUwU/data-analytics-portfolio/blob/main/Pokemon/Pok%C3%A9mon%20Stats%20EDA.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GawrGaUwU/data-analytics-portfolio/blob/main/Pokemon/Pok%C3%A9mon%20Stats%20EDA.ipynb)
   An exploratory analysis of 721 Pokémon, including their types and base combat stats (HP, Attack, Defense, etc.). This project serves as a foundation for learning statistical distributions and comparative data visualization.
+  * **Tech Stack:** Python (Pandas, Matplotlib, Seaborn).
+  * **Highlights:** Comparative distribution analysis of base combat stats (HP, Attack, Speed) and multi-variate correlation mapping.
+  * **Outcome:** Quantified the "power creep" across different generations and identified statistically significant outliers within elemental type groupings.  
