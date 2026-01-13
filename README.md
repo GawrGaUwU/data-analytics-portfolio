@@ -5,7 +5,7 @@ This repository contains a portfolio of data science and data analyst projects c
 
 ### 🛠️ End-to-End Data Pipelines & Dashboards
 
-- [**London Bike Rides: ETL & Interactive Dashboard**](London Bike/London Bike Rides EDA.ipynb) 
+- [**London Bike Rides: ETL & Interactive Dashboard**]([London Bike/London Bike Rides EDA.ipynb](https://github.com/GawrGaUwU/data-analytics-portfolio/blob/main/London%20Bike/London%20Bike%20Rides%20EDA.ipynb)) 
   **[🔗 View Tableau Dashboard](https://public.tableau.com/shared/XWQGWS5X9)**
   A comprehensive project transforming 17,000+ rows of raw mobility data into actionable urban insights. 
   * **Tech Stack:** Python (Pandas), Tableau.
