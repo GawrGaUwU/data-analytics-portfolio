@@ -16,6 +16,7 @@ This repository contains a portfolio of data science and data analyst projects c
 ### 🔍 Data Analysis and Visualization
 
 - [**Pokémon Stats EDA**](https://github.com/GawrGaUwU/data-analytics-portfolio/blob/main/Pokemon/Pok%C3%A9mon%20Stats%20EDA.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GawrGaUwU/data-analytics-portfolio/blob/main/Pokemon/Pok%C3%A9mon%20Stats%20EDA.ipynb)
+
   An exploratory analysis of 721 Pokémon, including their types and base combat stats (HP, Attack, Defense, etc.). This project serves as a foundation for learning statistical distributions and comparative data visualization.
   * **Tech Stack:** Python (Pandas, Matplotlib, Seaborn).
   * **Highlights:** Comparative distribution analysis of base combat stats (HP, Attack, Speed) and multi-variate correlation mapping.
